@@ -1,0 +1,176 @@
+body{
+    
+    background-color: #f6f6f6;
+    
+}
+
+.banner {
+ width: 950px;
+ height: 198px;
+ margin: 0 auto;
+}
+
+.menu {
+    
+    width: 240px;
+    margin: 0 auto;
+    border: solid 12px #f6f6f6;
+    background-color: #39332E;
+    height: 46px;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+#menu {
+padding: 0;
+}
+
+#menu li {
+display: inline;
+}
+
+#menu li a {
+font-family: 'Open Sans', sans-serif;
+font-size: 13px;
+text-decoration: none;
+float:left;
+margin-left:20px;
+margin-right:20px;
+padding-bottom: 12px;
+background-color: #39332E;
+color: #fff;
+}
+
+
+#menu li a:hover {
+margin-top:-2px;
+padding-bottom:12px;
+}
+
+.seccion {
+ width: 950px;
+ height: 45px;
+ background-color: #E66B1B;
+ margin: 0 auto;
+ border-left: solid 1px black;
+ border-right: solid 1px black;
+ border-top: solid 1px black;
+ font-size: 13px;
+ font-family: 'Open Sans', sans-serif;
+ 
+}
+
+.seccion p{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: white;
+    vertical-align: middle;
+    text-align:center;
+    
+}
+
+
+.seccion2{
+       
+    width: 950px;
+    height: auto;
+    background-color: white;
+    margin: 0 auto;
+    border-left: solid 1px black;
+    border-right: solid 1px black;
+    border-bottom: solid 1px black;
+}
+
+.seccion2 p{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align:justify;
+    
+}
+
+.inferior {
+    
+    width: 950px;
+    margin: 0 auto;
+    margin-top:15px;
+    border: solid 1px black;
+    background-color: #39332E;
+    height: 46px;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.inferior p{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: white;
+    vertical-align: middle;
+    text-align:center;
+    
+}
+
+.solicitud_tabla td {
+    
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.miLogin label{
+				
+                                margin:3px;
+				display:block;
+                                
+                        }
+                        
+                        input{
+                            border-radius: 3px;
+                        }
+                        
+                         textarea{
+                            border-radius: 3px;
+                        }
+                        
+                        @media (min-width:115px) and (max-width:1024px){
+                            
+                            .menu {
+    
+                                    width: 440px;
+                                    margin: 0 auto;
+                                    border: solid 12px #f6f6f6;
+                                    background-color: #39332E;
+                                    height: 80px;
+
+                                }
+
+                            #menu li a {
+                                    margin-top:5px;
+                                    font-size: 35px;
+                                    }
+                                    
+                            .seccion2 p{
+                                        font-size: 20px;
+                                }
+                              
+                            .seccion2 imagenes{
+                                    width: 945px;
+                                    margin: 0 auto;
+                                }    
+                                    
+                            .inferior p{
+                                    font-size: 15px;
+                                }
+                                
+                                .solicitud td{
+                                    font-size: 20px;
+                                }
+                            
+                        }
