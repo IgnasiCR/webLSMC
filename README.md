@@ -28,3 +28,7 @@ Además ahí tendrás que darle el usuario y la contraseña del administrador de
 La web tiene: portada, petición de solicitudes, y acceso al panel.
 
 Dentro del panel tiene: configuración del usuario, mensajes privados, revisión de peticiones, comunicados internos, gestión de usuarios, y una pequeña parte personalizable.
+
+¿Quién la ha hecho?
+-------------------------------------------
+Ni mas ni menos que IgnasiCR
