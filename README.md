@@ -31,4 +31,4 @@ Dentro del panel tiene: configuración del usuario, mensajes privados, revisión
 
 ¿Quién la ha hecho?
 -------------------------------------------
-Ni mas ni menos que IgnasiCR
+IgnasiCR
