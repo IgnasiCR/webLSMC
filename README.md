@@ -4,10 +4,10 @@ webLSMC
 A project of a web site made with HTML, CSS, JavaScript and PHP. System of messages, avatars, and more... 2016-2017.
 Un proyecto de una web creada con HTML, CSS, JavaScript y PHP. Sistema de mensajes, avatares, y más... 2016-2017.
 
-Paso 1. Servidores web y MSQL
+Step 1. Web & MSQL servers
 -------------------------------
 
-Es recomendando instalar WAMP o LAMP desde la web de Bitnami, o sino:
+It's recommended to install WAMP or LAMP from Bitnami's website, or install this:
 
 - apache2
 - mysql-server
